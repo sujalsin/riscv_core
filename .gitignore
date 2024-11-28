@@ -1,0 +1,40 @@
+# Build directory
+build/
+
+# Simulation directory
+sim/
+
+# Verilator files
+*.vcd
+*.dat
+obj_dir/
+
+# System files
+.DS_Store
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# Log files
+*.log
+*.jou
+*.rpt
+*.wdb
+
+# Waveform files
+*.vcd
+*.vpd
+*.fsdb
+*.wlf
+
+# ModelSim/QuestaSim files
+work/
+transcript
+*.wlf
+*.vstf
+
+# Synthesis files
+*.dcp
+*.bit
